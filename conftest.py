@@ -78,7 +78,7 @@ def test_user(api_client) -> dict:
         "zipcode": "53-111",
         "state": "Wroclaw",
         "city": "Wroclaw",
-        "mobile_number": "+48508169085",
+        "mobile_number": "+48150010090",
     }
 
     # Create user via API
